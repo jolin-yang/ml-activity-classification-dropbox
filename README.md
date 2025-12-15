@@ -72,7 +72,7 @@ Understanding human activity through smartphone sensors isn’t just a technical
         - Training set: 7,352 rows
         - Test set: 2,947 rows
  
-Dataset Attributes: 
+- Dataset Attributes: 
   - Contained no missing values
   - Had some class imbalance (ie. the "LAYING” and “STANDING" classes were more prevalent in the dataset compared to other classes)    
 
