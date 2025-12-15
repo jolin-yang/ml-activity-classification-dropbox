@@ -165,7 +165,7 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
 | Optimized Random Forest Classifier               | 0.885 |  0.334 | 0.848 |--------------------|
 | Optimized Simple Neural Network Classifier                 | 0.85 |  --  | -- |--------------------|
     
-### **Best-performing model: Logistic Regression**
+#### **Best-performing model: Logistic Regression**
 
 **Visualizations:**
 
