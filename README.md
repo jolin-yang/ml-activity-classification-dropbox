@@ -181,5 +181,6 @@ N/A
 
 ## 🙏 **Acknowledgements** 
 
-Special thanks to our Challenge Advisor Ameya, our Break Through Tech TA Andrii, and of course, the entire Break Through Tech Team (especially Maxime and Chu) for making this incredible opportunity possible! We truly appreciate the time and effort you all have dedicated into supporting and guiding us throughout each step of this project; it truly means a lot to us. 
+Special thanks to our Challenge Advisor Ameya, our Break Through Tech TA Andrii, and of course, the entire Break Through Tech Team (especially Maxime and Chu) for making this incredible opportunity possible!    
 
+We truly appreciate the time and effort you all have dedicated into supporting and guiding us throughout each step of this project; your mentorship has made this experience so incredibly rewarding and it means a lot to us. 
