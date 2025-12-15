@@ -1,9 +1,4 @@
-# 📌 Project Objective: 
-
-Use smartphone time-series accelerometer and gyroscope data to build a supervised ML classifier that predicts human movement, transforming raw sensor data into meaningful health insights.
-
-
-# Team 1 (Dropbox) - Predicting Human Physical Activity Using Smartphone Sensor Data 📊📱
+# Team 1 (Dropbox) - Predicting Human Physical Activity Using Smartphone Sensor Data
 ---
 
 ### 👥 **Team Members**
@@ -17,6 +12,11 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 | Ekin Chakma       | @ekin2038    | EDA, feature engineering, hyperparameter tuning, Simple Neural Network model training and optimization           |
 
 ---
+# 📌 Project Objective: 
+
+Use smartphone time-series accelerometer and gyroscope data to build a supervised ML classifier that predicts human movement, transforming raw sensor data into meaningful health insights.
+
+
 
 ## 🎯 **Project Highlights**
 
