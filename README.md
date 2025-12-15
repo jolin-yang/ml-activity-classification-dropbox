@@ -167,7 +167,7 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
     
 #### **Best-performing model: Logistic Regression**
 
-* **Key Findings + Takeaways:**
+**Key Findings + Takeaways:**
 * We gained practical experience in time-series data handling, including preprocessing and analyzing accelerometer and gyroscope sensor signal data.
 * The Logistic Regression model performed the best out of the three models we trained and tested  (Logistic Regression, Random Forest, and KNN (K-Nearest Neighbors).
 * Across the models, hyperparameter tuning had little impact on model performance.
