@@ -37,11 +37,10 @@ Use smartphone time-series accelerometer and gyroscope data to build a supervise
 
 * To install Jupypter Notebooks, run the following command in the terminal:
   - **pip install notebook**
-* In this project, we distributed the different tasks/steps among our five team members and created separate notebooks for each task to maintain modularity and organization. As a result, all of the code for this project lives in separate notebooks instead of just one.   
-
-To explore the steps we took for feature engineering, navigate to the directory titled 'Feature Engineering', and run the separate notebooks. To explore the process behind training, tuning, and evaluating our 4 different models, navigate to the directory titled 'Model Training, Tuning, and Evaluation', and run the notebooks. To explore the additions/enhancements we made to our project after completing the main steps and having some time leftover, navigate to the directory titled 'New Additions'.
-
-To run a notebook, first open the notebook in VSCode and either by (1) clicking on the **Run All** button in the menu or (2) entering **jupyter notebook notebook_name.ipynb** in the terminal, with notebook_name.ipynb being the name of the notebook you want to run. 
+* In this project, we distributed the different tasks/steps among our five team members and created separate notebooks for each task to maintain modularity and organization. As a result, all of the code for this project lives in separate notebooks instead of just one.
+  - To explore the steps we took for feature engineering, navigate to the directory titled 'Feature Engineering', and run the separate notebooks. To explore the process behind training, tuning, and evaluating our 4 different models, navigate to the directory titled 'Model Training, Tuning, and Evaluation', and run the notebooks. To explore the additions/enhancements we made to our project after completing the main steps and having some time leftover, navigate to the directory titled 'New Additions'.
+    
+* To run a notebook, first open the notebook in VSCode and either by (1) clicking on the **Run All** button in the menu or (2) entering **jupyter notebook notebook_name.ipynb** in the terminal, with notebook_name.ipynb being the name of the notebook you want to run. 
 
 ---
 
