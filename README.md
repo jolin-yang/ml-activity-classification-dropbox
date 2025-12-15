@@ -159,11 +159,11 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
     
 
 | Model                                                             |         Accuracy          |       Precision       |      Recall      |      F-1 Score      |
-|-------------------------------------------------------------------|----------------------|----------------------|--------------------|
-| Optimized Logistic Regression Classifier           | 0.898 |  0.326 | 0.846 |
-| Optimized K-NN Classifier                 | 0.890 |  0.603 | 0.851 |
-| Optimized Random Forest Classifier               | 0.885 |  0.334 | 0.848 |
-| Optimized Simple Neural Network Classifier                 | 0.85 |  --  | -- |
+|-------------------------------------------------------------------|----------------------|----------------------|--------------------|--------------------|
+| Optimized Logistic Regression Classifier           | 0.898 |  0.326 | 0.846 |--------------------|
+| Optimized K-NN Classifier                 | 0.890 |  0.603 | 0.851 |--------------------|
+| Optimized Random Forest Classifier               | 0.885 |  0.334 | 0.848 |--------------------|
+| Optimized Simple Neural Network Classifier                 | 0.85 |  --  | -- |--------------------|
     
 * **Best-performing model: Logistic Regression**
 
