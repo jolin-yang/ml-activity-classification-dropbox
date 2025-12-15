@@ -176,7 +176,7 @@ Figure: The visualizations displaying the relationship between epoch and accurac
 
 - Consider ensemble models to improve accuracy.
   
-- Retraining all our models using the features from one round of feature engineering. 
+- Retraining all our models using the features from one round of feature engineering (probably would expect to see better model accuracy overall). 
   
 - **Deploy machine learning model on a user-friendly interface.**
   1. Finalize model and pre-processing: use our Logistic Regression model
