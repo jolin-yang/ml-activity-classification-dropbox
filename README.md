@@ -80,7 +80,7 @@ Understanding human activity through smartphone sensors isn’t just a technical
 
 - Although there was some class imbalance in the dataset, as mentioned above, we ultimately chose to leave the classes as is since the classes were only slightly unbalanced - in which we considered the imbalance to be negligible - and our baseline Logistic Regression model still performed relatively well.    
   
-  However, after finalizing our models and having some time leftover, we decided to test out different techniques (oversampling, undersampling, class weighting) to address the class imbalance and see the difference it had (if any) on the performance of the models.  
+  However, after finalizing our models and having some time leftover near the end of our project, we decided to test out different techniques (oversampling, undersampling, class weighting) to address the class imbalance and see the difference it had (if any) on the performance of the models.  
 
 - One of the biggest challenges we had while working with the dataset was having a limited understanding of the scientific terms in the dataset, especially when we were exploring its features, and what exactly each of them represented. The dataset's README was helpful in clearing up some of our confusion, we also conducted our own outside research we did to gain a more thorough understanding of the dataset and its features. 
 
