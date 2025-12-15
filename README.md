@@ -67,6 +67,11 @@ Understanding human activity through smartphone sensors isn’t just a technical
 
 * **Dataset: UCI-HAR (Human Activity Recognition Using Smartphones) dataset**
   - Dataset was split into test and train folders, and most files were in the form of .txt files instead of .csv files we were most used to working with.
+      - 10,299 rows and 561 features
+        - Training set: 7,352 rows
+        - Test set: 2,947 rows
+ 
+Dataset Attributes: 
   - Contained no missing values
   - Had some class imbalance (ie. the "LAYING” and “STANDING" classes were more prevalent in the dataset compared to other classes)
 
@@ -98,10 +103,17 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
 
 ## 🧠 **Model Development**
 
-**You might consider describing the following (as applicable):**
-
-* Model(s) used (e.g., CNN with transfer learning, regression models)
-* Feature selection and Hyperparameter tuning strategies
+* Models Used:
+  - Logistic Regression
+  - K-NN
+  - Random Forest
+  - Simple Neural Network
+    
+* Feature Engineering: 
+  - Performed two rounds of feature engineering
+    - 1st (prelimary) round involved evenly splitting up the 561 features  
+  - the 1st (preliminary) round 
+* selection and Hyperparameter tuning strategies
 * Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
 
 
