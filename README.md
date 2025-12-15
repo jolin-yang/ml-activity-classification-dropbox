@@ -67,12 +67,14 @@ Understanding human activity through smartphone sensors isn’t just a technical
 
 **You might consider describing the following (as applicable):**
 
-* The dataset(s) used: origin, format, size, type of data
-* Data exploration and preprocessing approaches
-* Insights from your Exploratory Data Analysis (EDA)
-* Challenges and assumptions when working with the dataset(s)
+* **Dataset**: UCI-HAR (Human Activity Recognition Using Smartphones) dataset
+  - Split into test and train folders, and most files were in the form of .txt files instead of .csv files we were most used to working with.
+  - Contained no missing values
+  - Had some class imbalance (ie. the "LAYING” and “STANDING" classes were more prevalent in the dataset compared to other classes)
+  
+* One of the biggest challenges we had while working with the dataset was not having a 
 
-**Potential visualizations to include:**
+**Exploratory Data Analysis (EDA) Visualizations**
 
 * Plots, charts, heatmaps, feature visualizations, sample dataset images
 
