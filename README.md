@@ -1,4 +1,4 @@
-# Team 1 (Dropbox) - Predicting Human Physical Activity Using Smartphone Sensor Data 📊📱
+#  📊📱 Team 1 (Dropbox) - Predicting Human Physical Activity Using Smartphone Sensor Data
 ---
 
 ### 👥 **Team Members**
