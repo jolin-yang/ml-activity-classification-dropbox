@@ -115,19 +115,18 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
     
 * **Feature Engineering**: 
   - Performed two rounds of feature engineering
-    - 1st (prelimary) round:
+    - 1st (preliminary) round:
       - Evenly split up the 561 features among our five team members
         - ~100-120 features per person
       - Each person performed correlation analysis on their subset to identify highly correlated features and select the most informative features
       - Correlation analysis involved looking for features with > 0.9 correlation and removing one of them
-      - 274 features remain
+      - **274 features remain**
     - 2nd round:
       - Combine all the features we had selected from the 1st round
       - Perform another correlation analysis on this subset of features to remove any remaining redundant features and further reduce the featureset.
-      - 131 features remain
+      - **131 features remain**
 
-  - 561 total features → 131 final features ≈ 77% decrease in featureset
-
+  - **561 total features → 131 final features ≈ 77% decrease in featureset**
 
 * **Hyperparameter Tuning**
   - Used GridSearch CV
@@ -140,15 +139,23 @@ Figure: A heatmap displaying the correlation between the first 30 features in th
 
 ## 📈 **Results & Key Findings**
 
-**You might consider describing the following (as applicable):**
+* **Performance Metrics**
+  - Accuracy
+  - Precision
+  - Recall
+  - F-1 Score
 
-* Performance metrics (e.g., Accuracy, F1 score, RMSE)
-* How your model performed
+ 
+
+    
+* **Best-performing model: Logistic Regression**
 * Insights from evaluating model fairness
 
-**Potential visualizations to include:**
+**Visualizations:**
 
-* Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
+<img width="677" height="567" alt="image" src="https://github.com/user-attachments/assets/655bdaf1-fffd-462f-8cf1-4b7c70348926" />     
+
+Figure: The confusion matrix for the tuned Logistic Regression model.      
 
 ---
 
