@@ -3,10 +3,7 @@
 Use smartphone time-series accelerometer and gyroscope data to build a supervised ML classifier that predicts human movement, transforming raw sensor data into meaningful health insights.
 
 
-# Your AI Studio Challenge Project Title Here
-
-⚠️ _Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and examples in this template before finalizing your README._
-
+# Predicting Human Physical Activity Using Smartphone Sensor Data
 ---
 
 ### 👥 **Team Members**
