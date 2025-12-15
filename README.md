@@ -79,6 +79,7 @@ Understanding human activity through smartphone sensors isn’t just a technical
 
 **Exploratory Data Analysis (EDA) Visualizations**
 <img width="736" height="718" alt="image" src="https://github.com/user-attachments/assets/b1826e33-5043-4052-8153-97868f2e6901" />    
+
 Figure: A bar plot displaying the distribution of Activity classes in the training dataset. 
 
 
