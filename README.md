@@ -12,7 +12,7 @@
 | Ekin Chakma       | @ekin2038    | EDA, feature engineering, hyperparameter tuning, Simple Neural Network model training and optimization           |
 
 ---
-## 📌 **Project Objective**
+## 📌 ** Objective**
 
 Use smartphone time-series accelerometer and gyroscope data to build a supervised ML classifier that predicts human movement (like sitting, walking, laying down, etc.), transforming raw sensor data into meaningful health insights.
 
