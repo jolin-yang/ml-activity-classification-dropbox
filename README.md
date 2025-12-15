@@ -5,7 +5,7 @@
 
 | Name             | GitHub Handle | Contributions                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Jolin Yang    | @jolin-yang | EDA, feature engineering, subsampling (to handle class imbalance), Logistic Regression model training and evaluation |
+| Jolin Yang    | @jolin-yang | EDA, feature engineering, subsampling (to handle class imbalance), Logistic Regression model training and evaluation, GitHub repository and README |
 | Jocelyn Chan   | @jocelynchan042     | EDA, feature engineering, oversampling (to handle class imbalance), K-NN model training and evaluation |
 | Rebecca Michel     | @rebeccamichel1266  | EDA, feature engineering, Random Forest model training and evaluation                 |
 | Ayoub Sougrati      | @asougrati       | EDA, feature engineering, class weighting (to handle class imbalance), hyperparameter tuning  |
